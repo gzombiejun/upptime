@@ -10,8 +10,6 @@ sites:
     url: https://arc.utcwiki.com
   - name: Undertale社区项目路线图 - UTCPRP
     url: https://road.utcwiki.com
-  - name: Undertale社区项目路线图 - UTCPRP
-    url: https://road.utcwiki.com
 
 status-website:
   theme: light
