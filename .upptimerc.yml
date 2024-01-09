@@ -4,8 +4,6 @@ repo: upptime
 sites:
   - name: UTCWIKI
     url: https://utcwiki.com
-  - name: UTCARC
-    url: https://arc.utcwiki.com
 
 status-website:
   theme: light
@@ -16,30 +14,30 @@ status-website:
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 
 i18n:
-  activeIncidents: Active Incidents
+  activeIncidents: 提示
   allSystemsOperational: 一切正常
-  incidentReport: "Incident #$NUMBER report →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  incidentReport: "查看事件#$NUMBER →"
+  activeIncidentSummary: 于 $DATE 开始，共有 $POSTS 条帖子
   incidentTitle: Incident $NUMBER Details
   incidentDetails: Incident Details
   incidentFixed: Fixed
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
+  incidentOngoing: 处理中
+  incidentOpenedAt: 开始于
+  incidentClosedAt: 结束于
   incidentViewOnGitHub: View and Subscribe on GitHub
   incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
+  incidentBack: ← 返回
   pastIncidents: Past Incidents
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS
   liveStatus: 在线状态
   overallUptime: "在线时间比例：$UPTIME"
-  overallUptimeTitle: Overall uptime
+  overallUptimeTitle: 在线时间比例
   averageResponseTime: "平均响应时间：$TIMEms"
-  averageResponseTimeTitle: Average response
-  sevenDayResponseTime: 一周内的响应时间
+  averageResponseTimeTitle: 平均响应时间
+  sevenDayResponseTime: 一周内的平均响应时间
   responseTimeMs: 响应时间（毫秒）
-  up: Up
-  down: Down
+  up: 正常
+  down: 宕机
   degraded: Degraded
   ms: 毫秒
   loading: 加载中
