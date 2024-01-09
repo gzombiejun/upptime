@@ -2,8 +2,16 @@ owner: gzombiejun
 repo: upptime
 
 sites:
-  - name: UTCWIKI
+  - name: Undertale社区维基 - UTCWIKI
     url: https://utcwiki.com
+  - name: Undertale自由维基 - UTFWIKI
+    url: https://free.utcwiki.com
+  - name: Undertale社区档案馆 - UTCARC
+    url: https://arc.utcwiki.com
+  - name: Undertale社区项目路线图 - UTCPRP
+    url: https://road.utcwiki.com
+  - name: Undertale社区项目路线图 - UTCPRP
+    url: https://road.utcwiki.com
 
 status-website:
   theme: light
