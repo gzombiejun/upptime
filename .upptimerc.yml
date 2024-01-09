@@ -1,20 +1,78 @@
-# Change these first
-owner: gzombiejun # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: gzombiejun
+repo: upptime
 
 sites:
   - name: UTCWIKI
     url: https://utcwiki.com
+  - name: UTCARC
+    url: https://arc.utcwiki.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: light
   cname: status.utcwiki.com
-  # baseUrl: /your-repo-name
   logoUrl: https://utcwiki.com/resources/assets/wiki.png
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: UTCP在线状态监测
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: Active Incidents
+  allSystemsOperational: 一切正常
+  incidentReport: "Incident #$NUMBER report →"
+  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  incidentTitle: Incident $NUMBER Details
+  incidentDetails: Incident Details
+  incidentFixed: Fixed
+  incidentOngoing: Ongoing
+  incidentOpenedAt: Opened at
+  incidentClosedAt: Closed at
+  incidentViewOnGitHub: View and Subscribe on GitHub
+  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentBack: ← Back to all incidents
+  pastIncidents: Past Incidents
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  liveStatus: 在线状态
+  overallUptime: "在线时间比例：$UPTIME"
+  overallUptimeTitle: Overall uptime
+  averageResponseTime: "平均响应时间：$TIMEms"
+  averageResponseTimeTitle: Average response
+  sevenDayResponseTime: 一周内的响应时间
+  responseTimeMs: 响应时间（毫秒）
+  up: Up
+  down: Down
+  degraded: Degraded
+  ms: 毫秒
+  loading: 加载中
+  navGitHub: GitHub
+  footer: 这个页面由[Upptime](https://upptime.js.org)构建。
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: Go to the homepage
+  pastScheduledMaintenance: Past Scheduled Maintenance
+  scheduledMaintenance: Scheduled Maintenance
+  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  startedAt: 已开始于
+  startsAt: 将开始于
+  duration: 期间
+  durationMin: $DURATION 分钟
+  incidentCompleted: Completed
+  incidentScheduled: Scheduled
+  duration24H: 一天内
+  duration7D: 一周内
+  duration30D: 一月内
+  duration1Y: 一年内
+  durationAll: 所有时间
