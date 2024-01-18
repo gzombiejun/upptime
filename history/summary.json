@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/utcwiki.com.ico",
     "slug": "undertale-utcwiki",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptime": "99.63%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 2742,
     "timeDay": 2475,
     "timeWeek": 2465,
     "timeMonth": 2742,
     "timeYear": 2742,
     "dailyMinutesDown": {
-      "2024-01-18": 38
+      "2024-01-18": 48
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.utcwiki.com.ico",
     "slug": "undertale-utcwikit",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.65%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 3270,
     "timeDay": 3766,
     "timeWeek": 3280,
     "timeMonth": 3270,
     "timeYear": 3270,
     "dailyMinutesDown": {
-      "2024-01-18": 36
+      "2024-01-18": 46
     }
   },
   {
@@ -44,17 +44,17 @@
     "url": "https://free.utcwiki.com",
     "icon": "https://icons.duckduckgo.com/ip3/free.utcwiki.com.ico",
     "slug": "undertale-utfwiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "97.81%",
+    "uptimeDay": "97.80%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
-    "time": 1829,
-    "timeDay": 1946,
-    "timeWeek": 1835,
-    "timeMonth": 1829,
-    "timeYear": 1829,
+    "time": 1756,
+    "timeDay": 1567,
+    "timeWeek": 1721,
+    "timeMonth": 1756,
+    "timeYear": 1756,
     "dailyMinutesDown": {
       "2024-01-18": 32
     }
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/road.utcwiki.com.ico",
     "slug": "undertale-utcprp",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.69%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1001,
     "timeDay": 991,
     "timeWeek": 1021,
     "timeMonth": 1001,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2024-01-18": 30
+      "2024-01-18": 40
     }
   }
 ]
