@@ -167,12 +167,12 @@
     "url": "https://arc.utcwiki.com",
     "icon": "https://icons.duckduckgo.com/ip3/arc.utcwiki.com.ico",
     "slug": "undertale-utcarc",
-    "status": "up",
-    "uptime": "59.69%",
-    "uptimeDay": "93.08%",
-    "uptimeWeek": "94.86%",
+    "status": "down",
+    "uptime": "59.70%",
+    "uptimeDay": "93.06%",
+    "uptimeWeek": "94.85%",
     "uptimeMonth": "95.71%",
-    "uptimeYear": "59.69%",
+    "uptimeYear": "59.70%",
     "time": 1926,
     "timeDay": 1865,
     "timeWeek": 1792,
@@ -294,8 +294,7 @@
       "2024-04-13": 1440,
       "2024-04-12": 1440,
       "2024-04-11": 1290,
-      "2024-04-06": 61,
-      "2024-03-28": 24
+      "2024-04-06": 61
     }
   },
   {
