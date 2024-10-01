@@ -205,15 +205,15 @@
     "url": "https://arc.utcwiki.com",
     "icon": "https://icons.duckduckgo.com/ip3/arc.utcwiki.com.ico",
     "slug": "undertale-utcarc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "99.06%",
     "uptimeMonth": "95.86%",
     "uptimeYear": "99.02%",
     "time": 2242,
     "timeDay": 377,
-    "timeWeek": 394,
+    "timeWeek": 294,
     "timeMonth": 1342,
     "timeYear": 2242,
     "dailyMinutesDown": {
@@ -242,7 +242,7 @@
       "2024-08-17": 104,
       "2024-08-16": 128,
       "2024-08-15": 53,
-      "2024-08-14": 39
+      "2024-08-14": 23
     }
   },
   {
@@ -253,7 +253,7 @@
     "status": "up",
     "uptime": "95.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.86%",
+    "uptimeWeek": "71.79%",
     "uptimeMonth": "73.52%",
     "uptimeYear": "95.17%",
     "time": 2753,
