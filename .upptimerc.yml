@@ -8,10 +8,8 @@ sites:
     url: https://test.utcwiki.com
   - name: Undertale自由维基 - UTFWIKI
     url: https://free.utcwiki.com
-  - name: Undertale社区档案馆 - UTCARC
-    url: https://arc.utcwiki.com
-  - name: Undertale社区档案馆（API） - UTCARC(API)
-    url: https://apiarc.utcwiki.com
+  - name: Undertale社区档案馆（API-获取item） - UTCARC
+    url: https://apiarc.utcwiki.com/item/show?limit=1
   - name: Undertale社区项目路线图 - UTCPRP
     url: https://road.utcwiki.com
 
