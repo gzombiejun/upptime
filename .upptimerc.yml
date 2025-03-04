@@ -10,6 +10,8 @@ sites:
     url: https://free.utcwiki.com
   - name: Undertale社区档案馆 - UTCARC
     url: https://arc.utcwiki.com
+  - name: Undertale社区档案馆（API） - UTCARC(API)
+    url: https://apiarc.utcwiki.com
   - name: Undertale社区项目路线图 - UTCPRP
     url: https://road.utcwiki.com
 
