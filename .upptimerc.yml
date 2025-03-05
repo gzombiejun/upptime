@@ -6,26 +6,31 @@ sites:
     url: https://utcwiki.com
     expectedStatusCodes:
       - 200
+      - 401
       - 403
   - name: Undertale社区维基 测试站 - UTCWIKIT
     url: https://test.utcwiki.com
     expectedStatusCodes:
       - 200
+      - 401
       - 403
   - name: Undertale自由维基 - UTFWIKI
     url: https://free.utcwiki.com
     expectedStatusCodes:
       - 200
+      - 401
       - 403
   - name: Undertale社区档案馆（API-获取item） - UTCARC
     url: https://apiarc.utcwiki.com/item/show?limit=1
     expectedStatusCodes:
       - 200
+      - 401
       - 403
   - name: Undertale社区项目路线图 - UTCPRP
     url: https://road.utcwiki.com
     expectedStatusCodes:
       - 200
+      - 401
       - 403
 
 status-website:
