@@ -1,7 +1,7 @@
 url: https://apiarc.utcwiki.com/item/show?limit=1
-status: up
-code: 200
-responseTime: 18832
-lastUpdated: 2025-06-08T19:59:53.631Z
+status: down
+code: 530
+responseTime: 140
+lastUpdated: 2025-06-08T20:33:42.228Z
 startTime: 2025-03-04T05:39:57.095Z
 generator: Upptime <https://github.com/upptime/upptime>
