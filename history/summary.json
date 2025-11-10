@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/utcwiki.com.ico",
     "slug": "undertale-utcwiki",
     "status": "up",
-    "uptime": "84.39%",
+    "uptime": "84.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "72.09%",
-    "time": 2864,
-    "timeDay": 105,
-    "timeWeek": 147,
-    "timeMonth": 135,
-    "timeYear": 2299,
+    "time": 2858,
+    "timeDay": 165,
+    "timeWeek": 157,
+    "timeMonth": 137,
+    "timeYear": 2292,
     "dailyMinutesDown": {
       "2025-09-12": 282,
       "2025-09-11": 1440,
@@ -147,8 +147,7 @@
       "2024-11-21": 26,
       "2024-11-15": 37,
       "2024-11-12": 45,
-      "2024-11-11": 41,
-      "2024-11-10": 47
+      "2024-11-11": 41
     }
   },
   {
@@ -157,18 +156,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.utcwiki.com.ico",
     "slug": "undertale-utcwikit",
     "status": "down",
-    "uptime": "54.58%",
+    "uptime": "54.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "27.98%",
-    "time": 4300,
+    "time": 4303,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3985,
+    "timeYear": 4003,
     "dailyMinutesDown": {
-      "2025-11-09": 87,
+      "2025-11-10": 87,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -438,8 +438,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -448,16 +447,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/free.utcwiki.com.ico",
     "slug": "undertale-utfwiki",
     "status": "up",
-    "uptime": "86.86%",
+    "uptime": "86.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "76.78%",
-    "time": 2290,
-    "timeDay": 158,
-    "timeWeek": 172,
-    "timeMonth": 142,
-    "timeYear": 1722,
+    "time": 2244,
+    "timeDay": 106,
+    "timeWeek": 153,
+    "timeMonth": 141,
+    "timeYear": 1716,
     "dailyMinutesDown": {
       "2025-07-28": 95,
       "2025-07-26": 384,
@@ -569,8 +568,7 @@
       "2024-11-21": 25,
       "2024-11-15": 35,
       "2024-11-12": 44,
-      "2024-11-11": 40,
-      "2024-11-10": 43
+      "2024-11-11": 40
     }
   },
   {
@@ -579,16 +577,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apiarc.utcwiki.com.ico",
     "slug": "undertale-api-item-utcarc",
     "status": "up",
-    "uptime": "86.19%",
+    "uptime": "86.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.19%",
-    "time": 7742,
-    "timeDay": 102,
+    "uptimeYear": "86.25%",
+    "time": 7726,
+    "timeDay": 100,
     "timeWeek": 143,
     "timeMonth": 121,
-    "timeYear": 7742,
+    "timeYear": 7726,
     "dailyMinutesDown": {
       "2025-07-11": 994,
       "2025-07-10": 1440,
@@ -663,18 +661,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/road.utcwiki.com.ico",
     "slug": "undertale-utcprp",
     "status": "down",
-    "uptime": "74.41%",
+    "uptime": "74.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.71%",
+    "uptimeYear": "56.43%",
     "time": 2296,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1483,
+    "timeYear": 1486,
     "dailyMinutesDown": {
-      "2025-11-09": 87,
+      "2025-11-10": 87,
+      "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -844,8 +843,7 @@
       "2024-11-21": 24,
       "2024-11-15": 34,
       "2024-11-12": 21,
-      "2024-11-11": 39,
-      "2024-11-10": 21
+      "2024-11-11": 39
     }
   }
 ]
